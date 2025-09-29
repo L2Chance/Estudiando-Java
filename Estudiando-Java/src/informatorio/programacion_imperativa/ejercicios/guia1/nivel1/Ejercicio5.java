@@ -1,11 +1,11 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 import java.util.Random;
 
 /*Cálculo de divisibilidad: Se le solicita que guarden dos números enteros y los
 sumen, determine si el primer número es divisible por el segundo número y muestre
 el resultado.*/
 
-public class ejercicio5 {
+public class Ejercicio5 {
     public static void main(String[] args) {
         Random random = new Random();
         int num1 = random.nextInt(0,100);

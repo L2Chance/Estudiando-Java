@@ -1,4 +1,4 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 
 /*Caracteres : Guarde en distintos espacios de memoria los caracteres de su nombre
 y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char? */
@@ -7,7 +7,7 @@ y luego imprimirlos por pantalla. ¿Por qué no puede usar "" en el char? */
 reservadas. Para encerrar caracteres, se utilizan las comillas simples (''). Se hace la diferenciación porque los
 Strings en Java son objetos, mientras que los caracteres son datos primitivos.*/
 
-public class ejercicio4 {
+public class Ejercicio4 {
     public static void main(String[] args) {
         char uno = 'L';
         char dos = 'a';

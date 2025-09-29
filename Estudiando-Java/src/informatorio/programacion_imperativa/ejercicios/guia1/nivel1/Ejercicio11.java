@@ -1,4 +1,4 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 
 /*Acumulador: Se le solicita que guarde en un espacio de memoria la acumulación
 de quince multiplicaciones entre dos números enteros divididos por el número de la

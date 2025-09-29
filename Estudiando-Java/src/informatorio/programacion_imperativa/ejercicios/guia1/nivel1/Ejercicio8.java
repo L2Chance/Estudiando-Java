@@ -1,11 +1,11 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 
 /*Multiplicación: Se le solicita que guarde dos números reales y los multiplique, luego
 guarde otros dos números enteros y multiplicarlos. Guarde en un espacio de
 memoria la suma entre estas dos multiplicaciones ¿Que resultado le da? ¿Entero o
 real? ¿Por qué?*/
 
-public class ejercicio8 {
+public class Ejercicio8 {
     public static void main(String[] args) {
         double num1 = 20.5;
         double num2 = 10.4;
