@@ -1,4 +1,4 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 import java.util.Random;
 
 /*
@@ -7,7 +7,7 @@ sumen. El resultado guardarlo, mostrarlo por pantalla junto con un mensaje que
 indique si se trata de un número par o impar.
 */
 
-public class ejercicio2 {
+public class Ejercicio2 {
     public static void main(String[] args) {
         Random generator = new Random();
 

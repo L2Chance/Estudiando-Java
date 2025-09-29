@@ -1,9 +1,9 @@
-package informatorio.ejercicios.guia1.nivel1;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel1;
 
 /*Potencia de 2 y 3: Se le solicita que guarde en un espacio de memoria un número y
 luego haga la potencia de ese número al cuadrado y al cubo.*/
 
-public class ejercicio10 {
+public class Ejercicio10 {
     public static void main(String[] args) {
         int num = 3;
         int potencia = num * num;

@@ -1,10 +1,10 @@
-package informatorio.ejercicios.guia1.nivel2;
+package informatorio.programacion_imperativa.ejercicios.guia1.nivel2;
 
 /*Contador: Se le solicita que guarde un número en un espacio de memoria e
 incremente dicho número 20 veces sin usar asignación. ¿Qué operador podría usar
 para hacerlo?*/
 
-public class ejercicio1 {
+public class Ejercicio1 {
     public static void main(String[] args) {
         int num = 0;
 
