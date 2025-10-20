@@ -1,4 +1,7 @@
-package informatorio.DesafioCodeChadsAcademyPOO.dominio;
+package informatorio.DesafioCodeChadsAcademyPOO;
+
+import informatorio.DesafioCodeChadsAcademyPOO.dominio.Curso;
+import informatorio.DesafioCodeChadsAcademyPOO.dominio.Estudiante;
 
 import java.util.Scanner;
 
